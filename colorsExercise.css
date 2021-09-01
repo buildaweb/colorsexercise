@@ -1,0 +1,59 @@
+h1 {
+    color: crimson;
+   
+    background-color: red;
+   
+  }
+  
+  h2 {
+    color: #23ef01;
+  
+    background-color: orange;
+  }
+  
+  h3 {
+    color: #ff0;
+    /* Bonus 1 */
+    background-color: #fc0;
+  }
+  
+  h4 {
+    color: #00ff00ff;
+   
+    background-color: green;
+  }
+    color: #f007;
+    
+    background-color: blue;
+  }
+  
+
+  h6 {
+    color: rgb(24, 14, 114);
+    /* Bonus 1 */
+    background-color: indigo;
+  }
+  
+
+  p {
+    color: rgba(115, 33, 6, 1);
+   
+    background-color: violet;
+  }
+  
+ 
+  .one {
+    color: hotpink;
+  }
+ 
+  
+ 
+  .three {
+    background-color: peachpuff;
+  }
+ 
+  
+ 
+  .bonus {
+    border: 5px solid green;
+  }
